@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+#Custom
+build
+out
+.cache
+.idea
+.vs
+.vscode
