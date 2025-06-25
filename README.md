@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-USING SFML TO CREATE TIC TAC TOE.
+use sfml to program tic tac toe.
